@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can also check out my itch.io for small projects: https://lulasz.itch.io/
+You can also check out my itch.io for other projects: https://lulasz.itch.io/
 
 <!--
 **lulasz/lulasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
