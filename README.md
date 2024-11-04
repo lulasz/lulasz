@@ -3,7 +3,6 @@
 I love to write code and paint some pixels 😄
 
 You can also find me on:
-- https://gamejolt.com/@lulasz
 - https://lulasz.itch.io/
 
 <!--
